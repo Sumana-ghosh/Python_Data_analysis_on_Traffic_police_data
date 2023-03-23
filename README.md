@@ -1,2 +1,2 @@
 # Python_Data_analysis_on_Traffic_police_data
-This is a simple exploratory data analysis project conducted on traffic police data collected across years using python libraries like pandas and visualizing the graphs using seaborn.
+In this project, I cleaned, transformed, and performed exploratory data analysis on traffic stop data collected across years using python.
